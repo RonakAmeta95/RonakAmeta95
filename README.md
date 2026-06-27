@@ -18,19 +18,22 @@
 
 
 ▫️**Ronak Ameta** <br>
-▫️Aspiring **Frontend Developer** 
+▫️Aspiring **Frontend Developer** <br>
 ▫️Passionate about building responsive and user-friendly web applications.
 
 <br>
 
 ## CONNECT WITH ME :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/𝐑𝐨𝐧𝐚𝐤-𝐀𝐦𝐞𝐭𝐚-094a35324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronakameta95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronakameta_95?igsh=MW1kcGJhdWpqc2J1aw==)
-
+</p>
 <br>
 
 ## LANGUAGES & TOOLS :
