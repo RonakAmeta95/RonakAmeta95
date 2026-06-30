@@ -7,19 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius:15px; border:3px solid #38BDF8;" />
+  <img src="https://fascinating-silver-88yicvum.edgeone.dev/IMG-20260514-WA0017.jpg"
+       width="300"
+       alt="Ronak Ameta">
 </p>
 
+## ABOUT ME
 
-<br>
-
-## ABOUT ME:
-<br>
-
-
-▫️**Ronak Ameta** <br>
-▫️Aspiring **Frontend Developer** <br>
-▫️Passionate about building responsive and user-friendly web applications.
+▫️ **Ronak Ameta**  
+▫️ Aspiring **Frontend Developer**  
+▫️ Passionate about building responsive and user-friendly web applications
 
 <br>
 
@@ -29,11 +26,11 @@
   <a href="https://www.linkedin.com/in/𝐑𝐨𝐧𝐚𝐤-𝐀𝐦𝐞𝐭𝐚-094a35324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ronakameta95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ronakameta_95?igsh=MW1kcGJhdWpqc2J1aw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
